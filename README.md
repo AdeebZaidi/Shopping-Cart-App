@@ -26,7 +26,7 @@ The **Shopping Cart App** is a web application built using **React.js** that all
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-repo/shopping-cart-app.git
+   git clone https://github.com/AdeebZaidi/shopping-cart-app.git
    ```
 
 2. **Navigate to the project folder:**
